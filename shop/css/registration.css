@@ -1,0 +1,65 @@
+#header{
+    background: url("../img/banner33.jpg") no-repeat center;
+    height: 250px;
+}
+#registration-info{
+    height: 550px;
+    margin-top: 30px;
+}
+#registration-info .reg{
+    color: #999;
+    padding: 20px 0;
+}
+#registration-info .reg a{
+    color: #000000;
+}
+#registration-info .reg a:hover{
+    color: #EF8743;
+    text-decoration: underline;
+}
+#reg-form{
+    width: 555px;
+    height: 358px;
+}
+#reg-form p{
+    margin-top: 20px;
+}
+#reg-form label span{
+    width: 150px;
+    float: left;
+    color: #5d5959;
+}
+#reg-form label input{
+    width: 400px;
+    height: 38px;
+    outline: none;
+    text-indent: 10px;
+}
+#registration-info input[type="submit"]{
+    width: 444px;
+    height: 41px;
+    background: #EF8743;
+    color: #fff;
+    border: 0px;
+    outline: none;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 55px;
+    font-size: 20px;
+    cursor: pointer;
+
+}
+#registration-info input[type="submit"]:hover{
+    background: #fff;
+    color: #000000;
+    border: 1px solid #000000;
+}
+#registration-info .promise{
+    width: 555px;
+    margin-left: 30px;
+}
+#registration-info .promise h3{
+    color: #EF8743;
+}
+
+
